@@ -1,0 +1,4 @@
+ToDos:
+- build antenna (ferrit rod and copper cable)
+- process dcf77 data using dsp
+- build interface to set wake up time, show weather and other data, enable features like sun wake up etc. 
